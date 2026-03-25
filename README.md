@@ -71,6 +71,9 @@ current flows through its emitter generating the voltage across the resistance c
 <img width="599" height="356" alt="image" src="https://github.com/user-attachments/assets/14c02b5e-7def-4ba1-a6fe-f8d36d0c342d" />
 
 
+# Model Graph
+
+<img width="553" height="288" alt="image" src="https://github.com/user-attachments/assets/12ace596-c19e-4826-a591-c301b5a514f3" />
 
 
 ---
